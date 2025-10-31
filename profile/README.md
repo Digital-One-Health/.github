@@ -1,6 +1,6 @@
 ### Wellcome to Digital One Health Lab!
 
-Empowering research focusing on the drivers for emergence and transmission of AMR with a special focus on dynamics at the human and animal interface, and driving collaborative innovation through genomics, and digital health tools.
+Exploring the drivers of antimicrobial resistance (AMR) emergence and transmission at the human–animal interface through genomics and digital health innovation
 
 ---
 
